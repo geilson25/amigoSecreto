@@ -34,6 +34,9 @@
 
     `npm install cookie-parser`
 
+- [X]  Instalando o cors
+
+    `npm install cors`
 		
 ## Linguagens e Tools:
 <p align="left">  
