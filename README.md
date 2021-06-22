@@ -21,7 +21,10 @@
 - [X]  Criar o projeto no CMD
 
     `mkdir amigoSecreto`
+	
+- [X]  Iniciar o projeto no CMD
 
+    `npm init`
 
 
 
