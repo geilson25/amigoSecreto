@@ -1,7 +1,7 @@
 ## Desafio eCondos
 
 <p align="left">  
-	<a href="https://econdos.com.br/" target="_blank"> <img src="https://econdos.com.br/wp-content/uploads/2020/04/logo_econdos_hd.png" alt="econdos" width="40" height="60"/> </a>
+	<a href="https://econdos.com.br/" target="_blank"> <img src="https://econdos.com.br/wp-content/uploads/2020/04/logo_econdos_hd.png" alt="econdos" width="60" height="40"/> </a>
 </p>
 
 ## Pré requisitos:
@@ -29,7 +29,10 @@
 - [X]  Instalando o express
 
     `npm install express`
+	
+- [X]  Instalando o cookiParser
 
+    `npm install cookie-parser`
 
 		
 ## Linguagens e Tools:
