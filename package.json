@@ -1,0 +1,22 @@
+{
+  "name": "amigo",
+  "version": "1.0.0",
+  "description": "<p align=\"left\">   \t<a href=\"https://econdos.com.br/\" target=\"_blank\"> <img src=\"https://econdos.com.br/wp-content/uploads/2020/04/logo_econdos_hd.png\" alt=\"econdos\" width=\"40\" height=\"60\"/> </a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geilson25/amigoSecreto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geilson25/amigoSecreto/issues"
+  },
+  "homepage": "https://github.com/geilson25/amigoSecreto#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

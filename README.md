@@ -1,7 +1,7 @@
 ## Desafio eCondos
 
 <p align="left">  
-	<a href="https://econdos.com.br/" target="_blank"> <img src="https://econdos.com.br/wp-content/uploads/2020/04/logo_econdos_hd.png" alt="econdos" width="40" height="40"/> </a>
+	<a href="https://econdos.com.br/" target="_blank"> <img src="https://econdos.com.br/wp-content/uploads/2020/04/logo_econdos_hd.png" alt="econdos" width="40" height="60"/> </a>
 </p>
 
 ## Pré requisitos:
@@ -22,13 +22,15 @@
 
     `mkdir amigoSecreto`
 	
-- [X]  Iniciar o projeto no CMD
+- [X]  Iniciar o projeto
 
     `npm init`
 
+- [X]  Instalando o express
+
+    `npm install express`
 
 
-        
 		
 ## Linguagens e Tools:
 <p align="left">  
